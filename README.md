@@ -11,6 +11,7 @@
 
 ## **Introduction**
 ![Tux, the Linux mascot](/img/js.png)
+### **The founder of JavaScript**
 ![Tux, the Linux mascot](/img/Brandan.jpg)
 Brendan Eich is an American entrepreneur who is credited with inventing the widely-used JavaScript scripting language.
 
