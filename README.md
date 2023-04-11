@@ -8,3 +8,6 @@
 5. Conditions:if/else, ternary operator, switch statement
 6. Loops: loop for, loop while, loop do/while
 7. Functions: function declaration, function expression, function IIFE
+
+## **Introduction**
+![Tux, the Linux mascot](/img/js.png)
