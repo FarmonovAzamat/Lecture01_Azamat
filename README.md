@@ -45,4 +45,31 @@ Non-primitive (reference) data type
 ![Tux, the Linux mascot](/img/data%20types.jpg)
 ![Tux, the Linux mascot](/img/non-primitive.png)
 
+## **Operators: arithmetic, logical, comparison, assignment**
+![Tux, the Linux mascot](/img/JavaScript-Arithmatic-Operators.png)
+![Tux, the Linux mascot](/img/JavaScript-Logical-Operator.png)
+![Tux, the Linux mascot](/img/comparison%20operations.jpg)
+![Tux, the Linux mascot](/img/assignment.png)
+
+## ** Conditions:if/else, switch statement, ternary operator**
+Conditional Statements
+Very often when you write code, you want to perform different actions for different decisions.
+You can use conditional statements in your code to do this.
+
+In JavaScript we have the following conditional statements:
+1. if, if/else
+if (condition) {
+  code to run if condition is true
+} else {
+  run some other code instead
+}
+
+2. switch case
+![Tux, the Linux mascot](/img/swi.png)
+![Tux, the Linux mascot](/img/switch.png)
+
+3. ternary
+![Tux, the Linux mascot](/img/ternary.png)
+
+## **Loops: loop for, loop while, loop do/while**
 
