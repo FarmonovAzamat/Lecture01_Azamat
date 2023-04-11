@@ -52,11 +52,10 @@ Non-primitive (reference) data type <br>
 ![Tux, the Linux mascot](/img/comparison%20operations.jpg)
 ![Tux, the Linux mascot](/img/assignment.png)
 
-## ** Conditions:if/else, switch statement, ternary operator**
+## **Conditions:if/else, switch statement, ternary operator**
 Conditional Statements
 Very often when you write code, you want to perform different actions for different decisions.
 You can use conditional statements in your code to do this.
-
 In JavaScript we have the following conditional statements:
 <br>
  if, if/else
