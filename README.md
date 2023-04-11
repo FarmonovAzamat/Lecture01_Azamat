@@ -20,7 +20,7 @@ Brendan Eich is an American entrepreneur who is credited with inventing the wide
 ## **Variables**
 ![Tux, the Linux mascot](/img/variables.png)
 A JavaScript variable is simply a name of storage location.
-![Tux, the Linux mascot](/img/let%20var%20const.jpg)
+![Tux, the Linux mascot](/img/let%20var%20const.jpg) <br>
 There are two types of variables in JavaScript : local variable and global variable.
 - the local variable is declared inside block or function
 - the global variable is accessible from any function
