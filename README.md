@@ -72,5 +72,38 @@ if (condition) { <br>
  ternary
 ![Tux, the Linux mascot](/img/ternary.png)
 
-## **Loops: loop for, loop while, loop do/while**
+## **Loops: for loop, while loop, do while loop**
+Loops can execute a block of code as long as a specified condition is true.
+### for Loop
+A for loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop. <br>
+#### Syntax
+for (expression 1; expression 2; expression 3) { <br>
+  // code block to be executed <br>
+} <br>
+
+
+### The While Loop
+The while loop loops through a block of code as long as a specified condition is true.
+#### Syntax
+while (condition) { <br>
+  // code block to be executed <br>
+} <br>
+In the following example, the code in the loop will run, over and over again, as long as a variable (i) is less than 10: <br>
+while (i < 10) { <br>
+  text += "The number is " + i; <br>
+  i++; <br>
+} <br>
+
+### The do while loop
+Execute a code block once, an then continue if condition (i < 5) is true: <br>
+let text = ""; <br>
+let i = 0; <br>
+do { <br>
+  text += i + "<br>";
+  i++; <br>
+} <br>
+while (i < 5); <br>
+
+##
+
 
