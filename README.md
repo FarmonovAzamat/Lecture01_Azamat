@@ -30,7 +30,12 @@ There are two types of variables in JavaScript : local variable and global varia
  - Name must start with a letter (a to z or A to Z), underscore( _ ), or dollar( $ ) sign.
  - After first letter we can use digits (0 to 9), for example value1.
  - JavaScript variables are case sensitive, for example x and X are different variables.
- <br>
- ![Tux, the Linux mascot](/img/rules.png)
+ 
+ let x = 10;
+
+ let _x = 10;
+
+ let $ = 10;
+
 
 
