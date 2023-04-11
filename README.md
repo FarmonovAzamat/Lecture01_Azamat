@@ -41,7 +41,7 @@ There are two types of variables in JavaScript : local variable and global varia
 JavaScript provides different data types to hold different types of values. There are two types of data types in JavaScript.
 
 Primitive data type
-Non-primitive (reference) data type
+Non-primitive (reference) data type <br>
 ![Tux, the Linux mascot](/img/data%20types.jpg)
 ![Tux, the Linux mascot](/img/non-primitive.png)
 
