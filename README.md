@@ -30,6 +30,7 @@ There are two types of variables in JavaScript : local variable and global varia
  - Name must start with a letter (a to z or A to Z), underscore( _ ), or dollar( $ ) sign.
  - After first letter we can use digits (0 to 9), for example value1.
  - JavaScript variables are case sensitive, for example x and X are different variables.
+ <br>
  
  let x = 10;
 
@@ -57,18 +58,19 @@ Very often when you write code, you want to perform different actions for differ
 You can use conditional statements in your code to do this.
 
 In JavaScript we have the following conditional statements:
-1. if, if/else
+<br>
+ if, if/else
 if (condition) {
   code to run if condition is true
 } else {
   run some other code instead
 }
-
-2. switch case
+<br>
+ switch case
 ![Tux, the Linux mascot](/img/swi.png)
 ![Tux, the Linux mascot](/img/switch.png)
-
-3. ternary
+<br>
+ ternary
 ![Tux, the Linux mascot](/img/ternary.png)
 
 ## **Loops: loop for, loop while, loop do/while**
