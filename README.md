@@ -58,11 +58,11 @@ Very often when you write code, you want to perform different actions for differ
 You can use conditional statements in your code to do this.
 In JavaScript we have the following conditional statements:
 <br>
- if, if/else
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
+ if, if/else <br>
+if (condition) { <br>
+  code to run if condition is true <br>
+} else { <br>
+  run some other code instead <br>
 }
 <br>
  switch case
