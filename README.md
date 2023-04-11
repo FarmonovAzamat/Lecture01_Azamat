@@ -26,7 +26,7 @@ There are two types of variables in JavaScript : local variable and global varia
 - the local variable is declared inside block or function
 - the global variable is accessible from any function
  <br>
- Rules of declaring the variables:
+ Rules of declaring the variables: <br>
  - Name must start with a letter (a to z or A to Z), underscore( _ ), or dollar( $ ) sign.
  - After first letter we can use digits (0 to 9), for example value1.
  - JavaScript variables are case sensitive, for example x and X are different variables.
@@ -37,5 +37,6 @@ There are two types of variables in JavaScript : local variable and global varia
 
  let $ = 10;
 
+## **Data types: primitive and object**
 
 
