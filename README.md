@@ -53,6 +53,7 @@ Non-primitive (reference) data type <br>
 ![Tux, the Linux mascot](/img/assignment.png)
 
 ## **Conditions:if/else, switch statement, ternary operator**
+#### if/else
 Conditional Statements
 Very often when you write code, you want to perform different actions for different decisions.
 You can use conditional statements in your code to do this.
@@ -64,12 +65,12 @@ if (condition) { <br>
 } else { <br>
   run some other code instead <br>
 }
-<br>
- switch case
+
+ #### switch case
 ![Tux, the Linux mascot](/img/swi.png)
 ![Tux, the Linux mascot](/img/switch.png)
-<br>
- ternary
+
+ #### ternary
 ![Tux, the Linux mascot](/img/ternary.png)
 
 ## **Loops: for loop, while loop, do while loop**
@@ -80,7 +81,6 @@ A for loop repeats until a specified condition evaluates to false. The JavaScrip
 for (expression 1; expression 2; expression 3) { <br>
   // code block to be executed <br>
 } <br>
-
 
 ### The While Loop
 The while loop loops through a block of code as long as a specified condition is true.
@@ -104,6 +104,14 @@ do { <br>
 } <br>
 while (i < 5); <br>
 
-##
+## Functions: function declaration, function expression, function IIFE
+A JavaScript function is a block of code designed to perform a particular task. <br>
+A JavaScript function is executed when "something" invokes it (calls it).
+<br>
+
+function myFunction(p1, p2) { <br>
+  return p1 * p2; <br>
+} <br>
+
 
 
