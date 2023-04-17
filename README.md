@@ -108,10 +108,20 @@ while (i < 5); <br>
 A JavaScript function is a block of code designed to perform a particular task. <br>
 A JavaScript function is executed when "something" invokes it (calls it).
 <br>
+There are three ways of writing a function in JavaScript
 
+**1.Function declaration**
+##### Syntax
 function myFunction(p1, p2) { <br>
   return p1 * p2; <br>
 } <br>
+
+**2. Function expression**
+ 1. arrow
+  let myFunction = (p1, p2)=> { <br>
+  return p1 * p2; <br>
+} 
+2. anonymous
 
 
 
